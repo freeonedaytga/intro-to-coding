@@ -252,7 +252,7 @@ We use ~===~ to /test for equality/.
 
 ** Exercises: Objects
 
-These exercises can be found in Codepen [[http://codepen.io/Telegraph_Academy/pen/KzWJXO?editors=0010][here]].
+These exercises can be found in Codepen [[http://codepen.io/Telegraph_Academy/pen/QNpYoW?editors=0010][here]].
 
 + To open the console:
   + *Mac:* Command + Option + J
@@ -303,7 +303,7 @@ Darryl.pets[0].type; // "dog"
 
 ** Exercises: All the data!
 
-These exercises can be found in Codepen [[http://codepen.io/Telegraph_Academy/pen/KzWJXO?editors=0010][here]].
+These exercises can be found in Codepen [[http://codepen.io/Telegraph_Academy/pen/QNpYoW?editors=0010][here]].
 
 + To open the console:
   + *Mac:* Command + Option + J
@@ -341,7 +341,7 @@ square(square(5));
 
 ** Exercises: Basic Functions
 
-These exercises can be found in Codepen [[http://codepen.io/Telegraph_Academy/pen/KzWJXO?editors=0010][here]].
+These exercises can be found in Codepen [[http://codepen.io/Telegraph_Academy/pen/QNpYoW?editors=0010][here]].
 
 + To open the console:
   + *Mac:* Command + Option + J
@@ -371,7 +371,7 @@ divide(3, 9) // x: 3, y: 9, 3 / 9 => 0.333333333
 
 ** Exercises: Functions with Multiple Arguments
 
-These exercises can be found in Codepen [[http://codepen.io/Telegraph_Academy/pen/KzWJXO?editors=0010][here]].
+These exercises can be found in Codepen [[http://codepen.io/Telegraph_Academy/pen/QNpYoW?editors=0010][here]].
 
 + To open the console:
   + *Mac:* Command + Option + J
@@ -407,7 +407,7 @@ hadBirthday(johnDoe);
 
 ** Exercises: Functions with Data Structures
 
-These exercises can be found in Codepen [[http://codepen.io/Telegraph_Academy/pen/KzWJXO?editors=0010][here]].
+These exercises can be found in Codepen [[http://codepen.io/Telegraph_Academy/pen/QNpYoW?editors=0010][here]].
 
 + To open the console:
   + *Mac:* Command + Option + J
